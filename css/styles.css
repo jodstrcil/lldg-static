@@ -8,7 +8,7 @@ h1,h2,h3{font-family:Manrope,'DM Sans',sans-serif}
 img{max-width:100%}
 
 /* hero: the banner, with the copy in its dark middle */
-.hero{position:relative;min-height:720px;display:flex;flex-direction:column;background:#0b0d1c url(../assets/brand/hero.png) center/cover no-repeat}
+.hero{position:relative;min-height:clamp(720px,56.3vw,1200px);display:flex;flex-direction:column;background:#0b0d1c url(../assets/brand/hero.png) center/cover no-repeat}
 .header{position:relative;display:flex;align-items:center;justify-content:center;gap:24px;width:100%;max-width:1360px;margin:0 auto;padding:22px 40px;box-sizing:border-box}
 .nav{display:flex;gap:28px;font-size:15px;font-weight:500}
 .nav a{color:#dce2f7;text-decoration:none}.nav a:hover{color:#fff}
