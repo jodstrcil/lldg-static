@@ -26,19 +26,19 @@
       'pillar1.title': 'Entrenaments',
       'pillar1.body': 'Grups per nivell de dilluns a divendres, amb entrenadors del club.',
       'pillar2.title': 'Competició',
-      'pillar2.body': "Equips a la Lliga Sènior, la Lliga de Veterans, la Copa Catalana i els Equips Estatals (equips masculins i femenins).",
+      'pillar2.body': "Equips a la Lliga Sènior, la Lliga de Veterans, la Copa Catalana (FCTT) i Lligues Estatals (RFETM), amb equips masculins i femenins.",
       'pillar3.title': 'Comunitat',
-      'pillar3.body': "La secció de tennis taula de l'associació Lluïsos de Gràcia: jugadors de totes les edats i nivells que comparteixen sala, entrenaments i equips.",
+      'pillar3.body': "La secció de tennis taula de Lluïsos de Gràcia: jugadors de totes les edats i nivells que comparteixen sala, entrenaments i equips.",
 
       'timeline.title': 'La nostra història',
       'milestone1.strong': "Fundació de l'escola",
-      'milestone1.p': "Neix l'Escola de Tennis Taula de Lluïsos de Gràcia, amb un grup reduït de nens i nenes entrenant sota la direcció tècnica d'en Fabio, que encara forma part de l'equip tècnic avui.",
+      'milestone1.p': "Neix l'Escola de Tennis Taula de Lluïsos de Gràcia, amb un grup reduït de nens i nenes entrenant sota la direcció tècnica d'en Fabio Pérez Crespo, que encara forma part de l'equip tècnic avui.",
       'milestone2.strong': 'Debut a les lligues de la FCTT',
       'milestone2.p': "L'ETT inicia la seva participació a les lligues de la Federació Catalana de Tennis Taula.",
       'milestone3.strong': 'Primera temporada a lliga nacional',
       'milestone3.p': "Després d'anys de progressió a les lligues catalanes, el club fa el salt a la competició estatal per primer cop.",
       'milestone4.strong': 'Sala nova',
-      'milestone4.p': "S'inaugura una sala nova, exclusiva per al tennis taula, amb més capacitat per als equips i per als grups de base.",
+      'milestone4.p': "S'inaugura una sala nova, exclusiva per al tennis taula, amb més capacitat per als equips i per als grups de base. S'afegeix a l'antic gimnàs i, a partir de llavors, el club disposa de 12 taules per entrenar.",
       'milestone5.strong': "Lliga nacional femenina i Divisió d'Honor",
       'milestone5.p': "Primera participació de l'equip femení a la lliga nacional, i ascens del primer equip masculí a la Divisió d'Honor.",
 
@@ -47,7 +47,7 @@
       'entity.p2': "Fidels als valors de l'entitat, sempre hem obert les portes a tothom que vulgui jugar, amb independència de l'edat o del nivell de competitivitat.",
 
       'team.title1': 'La junta',
-      'team.body1': "Una colla de voluntaris, alguns de fa anys i altres de nou, que es reparteixen la tresoreria, la compra i el manteniment del material, la gestió d'esdeveniments interns i les xarxes socials, entre moltes altres tasques. Actualment en formen part 11 persones, i la porta sempre és oberta a qui vulgui participar-hi.",
+      'team.body1': "Una colla de voluntaris, alguns de fa anys i altres de nou, que es reparteixen la tresoreria, la compra i el manteniment del material, les gestions administratives i econòmiques, la captació d'espònsors, l'organització d'esdeveniments interns i les xarxes socials, entre moltes altres tasques. Actualment en formen part 7 persones, i la porta sempre és oberta a qui vulgui participar-hi.",
       'team.title2': 'Equip tècnic',
       'team.body2': "12 entrenadors i entrenadores s'encarreguen dels grups de totes les edats i nivells, molts d'ells formats al mateix club. Sempre afavorim que les noves generacions amb ganes de fer-ho s'hi puguin anar incorporant.",
 
@@ -67,7 +67,7 @@
       'sponsor.alt': 'Daruma — Serveis lingüístics i traducció',
 
       'footer.tagline': 'Secció de Tennis Taula',
-      'footer.sponsorCta': 'Ets una empresa i vols col·laborar amb el club? Escriu-nos',
+      'footer.sponsorCta': 'Ets una empresa i vols col·laborar amb el club? Escriu-nos a escolatennistaula@lluisosdegracia.cat',
       'footer.bottom': '© Lluïsos de Gràcia · Secció de Tennis Taula, des de 2008',
 
       'meta.title': 'Lluïsos de Gràcia · Tennis Taula',
@@ -95,19 +95,19 @@
       'pillar1.title': 'Training',
       'pillar1.body': "Level-based groups Monday to Friday, with the club's own coaches.",
       'pillar2.title': 'Competition',
-      'pillar2.body': "Teams in the Senior League, the Veterans League, the Copa Catalana and the National Teams (men's and women's).",
+      'pillar2.body': "Teams in the Senior League, the Veterans League, the Copa Catalana (FCTT) and the National Leagues (RFETM), with both men's and women's teams.",
       'pillar3.title': 'Community',
-      'pillar3.body': "The table tennis section of the Lluïsos de Gràcia association: players of every age and level sharing a hall, training sessions and teams.",
+      'pillar3.body': "The table tennis section of Lluïsos de Gràcia: players of every age and level sharing a hall, training sessions and teams.",
 
       'timeline.title': 'Our history',
       'milestone1.strong': 'The school is founded',
-      'milestone1.p': "The Lluïsos de Gràcia Table Tennis School is born, with a small group of children training under Fabio's technical direction — he's still part of the coaching staff today.",
+      'milestone1.p': "The Lluïsos de Gràcia Table Tennis School is born, with a small group of children training under Fabio Pérez Crespo's technical direction — he's still part of the coaching staff today.",
       'milestone2.strong': 'Debut in the FCTT leagues',
       'milestone2.p': "The ETT begins competing in the Catalan Table Tennis Federation's leagues.",
       'milestone3.strong': 'First season in the national league',
       'milestone3.p': "After years of progress in the Catalan leagues, the club makes the leap to national competition for the first time.",
       'milestone4.strong': 'New hall',
-      'milestone4.p': "A new hall opens, dedicated exclusively to table tennis, with more capacity for the teams and the youth groups.",
+      'milestone4.p': "A new hall opens, dedicated exclusively to table tennis, with more capacity for the teams and the youth groups. It's added to the old gym, and from then on the club has 12 tables to train on.",
       'milestone5.strong': "Women's national league and Divisió d'Honor",
       'milestone5.p': "First participation of the women's team in the national league, and promotion of the men's first team to the Divisió d'Honor.",
 
@@ -116,7 +116,7 @@
       'entity.p2': "True to the entity's values, we've always opened our doors to anyone who wants to play, regardless of age or competitive level.",
 
       'team.title1': 'The board',
-      'team.body1': "A group of volunteers, some long-standing and others new, who share the treasury, buying and maintaining equipment, running internal events, social media and many other tasks. 11 people currently make up the board, and the door is always open to anyone who wants to get involved.",
+      'team.body1': "A group of volunteers, some long-standing and others new, who share the treasury, buying and maintaining equipment, administrative and financial matters, sponsor outreach, running internal events, social media and many other tasks. 7 people currently make up the board, and the door is always open to anyone who wants to get involved.",
       'team.title2': 'Coaching staff',
       'team.body2': "12 coaches run the groups across every age and level, many of them trained at the club itself. We always make room for new generations who want to join the coaching staff.",
 
@@ -136,7 +136,7 @@
       'sponsor.alt': 'Daruma — Language and translation services',
 
       'footer.tagline': 'Table Tennis Section',
-      'footer.sponsorCta': 'Are you a business interested in partnering with the club? Get in touch',
+      'footer.sponsorCta': 'Are you a business interested in partnering with the club? Email us at escolatennistaula@lluisosdegracia.cat',
       'footer.bottom': '© Lluïsos de Gràcia · Table Tennis Section, since 2008',
 
       'meta.title': 'Lluïsos de Gràcia · Table Tennis',
