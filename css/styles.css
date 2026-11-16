@@ -79,7 +79,7 @@ img{max-width:100%}
 .sponsor:hover{transform:translateY(-4px);box-shadow:0 18px 44px #00000055}
 .sponsor img{display:block;height:88px;width:auto}
 .sponsor--disbauxa{max-width:100%;box-sizing:border-box}
-.sponsor--disbauxa img{width:320px;max-width:100%;height:auto}
+.sponsor--disbauxa img{width:256px;max-width:100%;height:auto}
 
 .stat{display:flex;flex-direction:column;gap:8px;padding:28px;border-radius:20px;border:1px solid #343c59;background:#161c31;text-align:center;transition:transform .25s ease,box-shadow .25s ease}
 .stat:hover{transform:translateY(-4px);box-shadow:0 16px 32px #00000040}
