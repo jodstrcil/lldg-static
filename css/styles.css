@@ -78,6 +78,8 @@ img{max-width:100%}
 .sponsor{display:flex;align-items:center;justify-content:center;padding:36px 56px;border-radius:20px;background:#ffffff;box-shadow:0 12px 40px #00000040;transition:transform .25s ease,box-shadow .25s ease}
 .sponsor:hover{transform:translateY(-4px);box-shadow:0 18px 44px #00000055}
 .sponsor img{display:block;height:88px;width:auto}
+.sponsor--disbauxa{max-width:100%;box-sizing:border-box}
+.sponsor--disbauxa img{width:320px;max-width:100%;height:auto}
 
 .stat{display:flex;flex-direction:column;gap:8px;padding:28px;border-radius:20px;border:1px solid #343c59;background:#161c31;text-align:center;transition:transform .25s ease,box-shadow .25s ease}
 .stat:hover{transform:translateY(-4px);box-shadow:0 16px 32px #00000040}
@@ -131,6 +133,7 @@ img{max-width:100%}
   .head h2{font-size:30px}
   .sponsor{padding:24px 28px}
   .sponsor img{height:56px}
+  .sponsor--disbauxa img{height:auto}
   .footer{padding:40px 16px 0}
   .footerTop{flex-direction:column;gap:28px}
   .footerConnect{align-items:flex-start}
